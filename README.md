@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/BrenoItalo16/100-exercices/main/assets/images/100_exercices_github_cover.png"/>
+<br>
+
 # 100 Dart Exercises
 
 Welcome to the **100 Dart Exercises** repository! This project is designed to help you improve your Dart programming skills through a series of practical exercises. Whether you're a beginner or an experienced developer, these exercises will guide you through various concepts and techniques in Dart.

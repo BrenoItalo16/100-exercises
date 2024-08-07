@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BrenoItalo16/100-exercices/main/assets/images/100_exercices_github_cover.png"/>
+<img src="https://raw.githubusercontent.com/BrenoItalo16/100-exercises/main/assets/images/100_exercises_github_cover.png"/>
 <br>
 
 # 100 Dart Exercises

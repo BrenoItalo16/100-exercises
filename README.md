@@ -25,7 +25,7 @@ To get started with these exercises, you'll need to have Dart installed on your 
 1. **Install Dart:** Follow the official [Dart installation guide](https://dart.dev/get-dart) for your operating system.
 2. **Clone the Repository:** Use Git to clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/100-dart-exercises.git
+   git clone https://github.com/brenoitalo16/100-exercises.git
    ```
 3. **Navigate to the Directory:** Change into the directory where the exercises are located.
    ```bash

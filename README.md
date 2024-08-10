@@ -67,6 +67,7 @@ If you have any questions or feedback, please feel free to reach out:
 
 - **Email:** contato@brenoitalo.com
 - **GitHub:** [brenoitalo16](https://github.com/brenoitalo16)
+- **Instagram:** [@brenoitalo16](https://instagram.com/brenoitalo16)
 
 ---
 

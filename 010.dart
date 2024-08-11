@@ -6,5 +6,5 @@ import 'dart:io';
 void main() {
   print('How many money do you have in your wallet? R\$:');
   double money = double.parse(stdin.readLineSync()!);
-  print('Com R\$$money você pode comprar \$${money / 5.54}');
+  print('With R\$$money you can buy \$${money / 5.54}');
 }

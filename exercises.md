@@ -1,5 +1,5 @@
 
-# 100 Exercises
+# Exercises
 
 - [001 - Create a program that writes "Hello, world" on the screen](001.dart)
 - [002 - Create a program that reads a person's name and displays a welcome message on the screen](002.dart)
@@ -14,4 +14,5 @@
 - [011 - Create a program that reads the height and width of a wall in meters, calculates its area, and determines the amount of paint needed to paint it, knowing that each liter of paint covers an area of 2 square meters.](011.dart)
 - [012 - Make a program that reads the price of a product and shows its new price, with a 5% discount.](012.dart)
 - [013 - Create an algorithm that reads an employee's salary and shows their new salary with a 15% increase.](013.dart)
+- [014 - Write a program that converts a temperature entered in °C to °F. F = C * (9.0/5.0) + 32.](014.dart)
 

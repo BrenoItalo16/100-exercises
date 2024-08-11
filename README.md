@@ -9,7 +9,7 @@ Welcome to the **100 Dart Exercises** repository! This project is designed to he
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Exercises](#exercises)
+- [Exercises](exercises.md)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)

@@ -11,4 +11,5 @@
 - [008 - Write a program that reads a value in meters and writes it converted to centimeters and kilometers.](008.dart)
 - [009 - Create a multiplication table that reads any integer and displays its multiplication table from 1 to 10 on the screen.](009.dart)
 - [010 - Create a program that reads how much money a person has in their wallet and shows how many dollars they can buy. Consider US$1.00 = R$5.54.](010.dart)
+- [011 - Create a program that reads the height and width of a wall in meters, calculates its area, and determines the amount of paint needed to paint it, knowing that each liter of paint covers an area of 2 square meters.](011.dart)
 

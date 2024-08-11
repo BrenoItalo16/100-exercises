@@ -12,4 +12,5 @@
 - [009 - Create a multiplication table that reads any integer and displays its multiplication table from 1 to 10 on the screen.](009.dart)
 - [010 - Create a program that reads how much money a person has in their wallet and shows how many dollars they can buy. Consider US$1.00 = R$5.54.](010.dart)
 - [011 - Create a program that reads the height and width of a wall in meters, calculates its area, and determines the amount of paint needed to paint it, knowing that each liter of paint covers an area of 2 square meters.](011.dart)
+- [012 - Make a program that reads the price of a product and shows its new price, with a 5% discount.](012.dart)
 

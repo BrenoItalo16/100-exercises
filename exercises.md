@@ -18,3 +18,4 @@
 - [015 - Write a program that asks the user for the number of kilometers traveled by a rented car, as well as the number of days the car was rented. Calculate the price to be paid, knowing that the car costs $60 per day and $0.15 per kilometer driven](exercises/015.dart)
 - [016 - Create a program that reads any Real number from the keyboard and displays its integer portion on the screen.](exercises/016.dart)
 - [017 -  Write a program that reads the length of the opposite and adjacent sides of a right triangle. Calculate and display the length of the hypotenuse.](exercises/017.dart)
+- [// 018 - Create a program that reads any angle and displays the sine, cosine and tangent values of that angle on the screen.](exercises/018.dart)

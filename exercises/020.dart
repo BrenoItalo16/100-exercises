@@ -3,7 +3,6 @@
 //      reads the names of the four students and displays the sorted order.
 
 import 'dart:io';
-import 'dart:math';
 
 void main() {
   print("Type the first name:");

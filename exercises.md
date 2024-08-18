@@ -21,3 +21,4 @@
 - [// 018 - Create a program that reads any angle and displays the sine, cosine and tangent values of that angle on the screen.](exercises/018.dart)
 - [//019 - A teacher wants to draw one of his n students to erase the board. Make a program that helps him by reading their names and writing the name of the chosen one.](exercises/019.dart)
 - [//020 - The same teacher from the previous exercise wants to randomly draw the presentation order of the students' assignments. Write a program that reads the names of the four students and displays the sorted order.](exercises/020.dart) 
+- [//021 - Create a program that displays a playlist and when you choose the number corresponding to the song, the program plays the chosen song.](exercises/021.dart) 

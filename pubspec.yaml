@@ -1,0 +1,11 @@
+
+name: my_project
+description: 100 exercices
+version: 1.0.0
+
+environment:
+  sdk: "3.5.0"
+
+dependencies:
+  just_audio: ^0.9.18
+

@@ -9,10 +9,10 @@ void main() {
   print('Type the full name\n==================');
   String? fullName = stdin.readLineSync();
   String? noSpacesName = fullName!.replaceAll(' ', '');
-  List<String>? firstName = fullName.split(' ');
+  List<String>? names = fullName.split(' ');
   print('You have typed: $fullName.');
   print('Uppercase: ${fullName.toUpperCase()}.');
   print('Lowercase: ${fullName.toLowerCase()}.');
   print('This name has ${noSpacesName.length}.');
-  print('The first name has ${firstName[0].length}.');
+  print('The first name has ${names[0].length}.');
 }

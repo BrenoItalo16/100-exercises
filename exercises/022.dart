@@ -14,5 +14,5 @@ void main() {
   print('Uppercase: ${fullName.toUpperCase()}.');
   print('Lowercase: ${fullName.toLowerCase()}.');
   print('This name has ${noSpacesName.length}.');
-  print('The first name has ${names[0].length}.');
+  print('The first name has ${names[0].length}!');
 }

@@ -1,5 +1,6 @@
 //021 - Create a program that displays a playlist and when you choose the number
 //      corresponding to the song, the program plays the chosen song.
+//      <<<REVIEW>>>
 
 import 'dart:io';
 
@@ -17,11 +18,15 @@ void main() async {
       'name': 'Stay',
       'path': '../assets/songs/Stay.mp3',
     },
+    {
+      'name': 'Stay',
+      'path': '../assets/songs/Stay.mp3',
+    },
   ];
 
   print('Current Directory: ${Directory.current.path}');
 
-  print('Choose a song.');
+  print('Choose a song by number:\n');
   print('PLAYLIST\n==========');
   for (var i = 0; i < playlist.length; i++) {
     print('${i + 1} ${playlist[i]['name']}');

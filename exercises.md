@@ -23,3 +23,4 @@
 - [//020 - The same teacher from the previous exercise wants to randomly draw the presentation order of the students' assignments. Write a program that reads the names of the four students and displays the sorted order.](exercises/020.dart) 
 - [//021 - Create a program that displays a playlist and when you choose the number corresponding to the song, the program plays the chosen song.](exercises/021.dart) 
 - [//022 - Create a program that reads a person's full name and shows: - The name in all uppercase and lowercase letters. - The total number of letters, excluding spaces. - The number of letters in the first name.](exercises/022.dart) 
+- [//023 - Write a program that reads any integer number from 0 to 9999 and displays each of the digits separated by unit, ten, hundred, and thousand.](exercises/023.dart) 

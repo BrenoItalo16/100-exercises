@@ -26,3 +26,4 @@
 - [//023 - Write a program that reads any integer number from 0 to 9999 and displays each of the digits separated by unit, ten, hundred, and thousand.](exercises/023.dart) 
 - [//024 - Create a program that reads the name of a city and says whether it starts with the name "Santo" or not.](exercises/024.dart) 
 - [//025 - Create a program that reads a person's name and says if they have "Silva" in their name.](exercises/025.dart) 
+- [//026 - Write a program that reads a sentence from the keyboard and shows: how many times the letter "A" appears in which position it appears the first time in which position it appears the last time](exercises/026.dart) 

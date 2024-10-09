@@ -27,3 +27,4 @@
 - [//024 - Create a program that reads the name of a city and says whether it starts with the name "Santo" or not.](exercises/024.dart) 
 - [//025 - Create a program that reads a person's name and says if they have "Silva" in their name.](exercises/025.dart) 
 - [//026 - Write a program that reads a sentence from the keyboard and shows: how many times the letter "A" appears in which position it appears the first time in which position it appears the last time](exercises/026.dart) 
+- [//027 - Write a program that reads a person's full name and shows the first and last name separately.](exercises/027.dart) 

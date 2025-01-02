@@ -8,4 +8,8 @@ environment:
 
 dependencies:
   just_audio: ^0.9.18
+  http: ^0.13.4
+  html: ^0.15.0
+  filepicker_windows: ^2.0.0
 
+//? para funcionar rode o comando flutter pub get

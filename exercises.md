@@ -30,3 +30,4 @@
 - [//027 - Write a program that reads a person's full name and shows the first and last name separately.](exercises/027.dart) 
 - [//028 - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu](exercises/028.dart) 
 - [//029 - Write a program that reads the car's speed. If it exceeds 80 km/h, show a message that it was fined. The fine will cost R$7.00 for each km above the limit.](exercises/029.dart) 
+- [//030 - Create a program that reads an integer and checks if it is even or odd](exercises/030.dart) 

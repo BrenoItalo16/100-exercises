@@ -33,3 +33,4 @@
 - [//030 - Create a program that reads an integer and checks if it is even or odd](exercises/030.dart) 
 - [//031 - Develop a program that asks for the distance of a trip in km. Calculate the ticket price, charging R$0.50 per kilometer for trips up to 200 km and R$0.45 for longer trips.](exercises/031.dart) 
 - [//032 - Write a program that reads any year and shows if it is a "leap year".](exercises/032.dart) 
+- [//033 - Create a program that reads 3 integers and shows which is the largest and which is the smallest.](exercises/033.dart) 

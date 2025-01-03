@@ -1,13 +1,9 @@
-/*032 - Write a program that reads any year and shows if it is a "leap year".
+/*032 - Write a program that reads the current year and shows if it is a "leap year".
      • A year is leap if it is divisible by 4.
      • But, if it is also divisible by 100, it is not leap unless it is divisible by 400.
 */
-
-import 'dart:io';
-
 void main() {
-  print('Enter a year:');
-  int year = int.parse(stdin.readLineSync()!);
+  final currentYear = DateTime.now().year;
 
   void isLeapYear(year) {
     if (year % 400 == 0 || year % 4 == 0) {
@@ -19,5 +15,5 @@ void main() {
     }
   }
 
-  isLeapYear(year);
+  isLeapYear(currentYear);
 }

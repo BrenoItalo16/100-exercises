@@ -34,3 +34,4 @@
 - [//031 - Develop a program that asks for the distance of a trip in km. Calculate the ticket price, charging R$0.50 per kilometer for trips up to 200 km and R$0.45 for longer trips.](exercises/031.dart) 
 - [//032 - Write a program that reads any year and shows if it is a "leap year".](exercises/032.dart) 
 - [//033 - Create a program that reads 3 integers and shows which is the largest and which is the smallest.](exercises/033.dart) 
+- [//034 - Write a program that reads an employee's salary and calculates the value of their raise. For salaries above R$1250, calculate a 10% raise. For salaries at or below this amount, calculate a 15% raise.](exercises/034.dart) 

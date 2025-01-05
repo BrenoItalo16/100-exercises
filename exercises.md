@@ -36,3 +36,4 @@
 - [//033 - Create a program that reads 3 integers and shows which is the largest and which is the smallest.](exercises/033.dart) 
 - [//034 - Write a program that reads an employee's salary and calculates the value of their raise. For salaries above R$1250, calculate a 10% raise. For salaries at or below this amount, calculate a 15% raise.](exercises/034.dart) 
 - [//035 - Develop a program that reads the length of 3 line segments and tells the user if they can form a triangle.](exercises/035.dart) 
+- [//036 - Write a program to approve a bank loan for the purchase of a house. Ask for the value of the house, the buyer's salary, and in how many years they will pay. The monthly installment cannot exceed 30% of the salary, otherwise the loan will be denied.](exercises/036.dart) 
